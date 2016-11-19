@@ -1,3 +1,40 @@
+# Directory
+Bin/*
+Libs/*
+tmp
 node_modules
-yarn.lock
-.tern-project
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs
+*.log
+*.sql
+*.sqlite
+
+# OSX Crap
+.DS_Store*
+.DS_Store
+xcuserdata
+project.xcworkspace
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Visual Studio
+*.sdf
+*.sln
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
+.vs/
