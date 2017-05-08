@@ -20,7 +20,8 @@
     "qs": "^6.2.1",
     "strftime": "^0.9.2",
     "useragent": "^2.1.9",
-    "ws": "^1.1.1"
+    "ws": "^1.1.1",
+    "serve-static": "^1.12.2"
   },
   "devDependencies": {
     "chokidar": "^1.6.0",
