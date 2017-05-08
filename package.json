@@ -1,5 +1,5 @@
 {
-  "name": "Flush",
+  "name": "flush",
   "version": "0.5.0",
   "description": "A thin layer for making fast web applications",
   "main": "lib/flush.js",
@@ -25,9 +25,6 @@
   "devDependencies": {
     "chokidar": "^1.6.0",
     "mocha": "^3.1.2"
-  },
-  "bin": {
-    "flush": "bin/flush.js"
   },
   "scripts": {
     "test": "node ./test/index.js"
