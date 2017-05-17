@@ -1,6 +1,6 @@
 {
   "name": "flush",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "description": "A thin layer for making fast web applications",
   "main": "lib/flush.js",
   "repository": {
